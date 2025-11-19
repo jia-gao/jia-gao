@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Jiazhou Gao
-
 ## 👨‍💻 About Me
 Software engineer at Anthropic, passionate about AI infrastructure and high-performance systems.
 
