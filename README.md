@@ -3,13 +3,8 @@ Software engineer at Anthropic, passionate about AI infrastructure and high-perf
 
 ## 🚀 Current Focus
 - Work on deploying, scaling, and operating LLM inference systems on clouds
-- Learning about LLM inference optimization, and GPU acceleration
+- Learning about LLM inference optimizations
 
-## 🌱 Currently Learning
-- Large language model inference optimization
-- CUDA and GPU programming
-- Distributed serving frameworks
-- Contributing to large-scale open-source projects
 
 ## 📫 Connect with Me
 - GitHub: [@jia-gao](https://github.com/jia-gao)
