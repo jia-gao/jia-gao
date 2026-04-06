@@ -2,8 +2,7 @@
 Software engineer at Anthropic, passionate about AI infrastructure and high-performance systems.
 
 ## 🚀 Current Focus
-- Work on deploying, scaling, and operating LLM inference systems on clouds
-- Learning about LLM inference optimizations
+- Scaling LLM inference systems
 
 
 ## 📫 Connect with Me
